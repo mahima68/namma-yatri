@@ -1,1 +1,3 @@
-# namma-yatri
+# Namma Yatri Trip Analysis 🚖
+
+This project analyzes trip data from the Namma Yatri ride-hailing service, providing insights into popular trip durations, top-earning drivers, and fare distributions across various distance ranges. The dataset, sourced from Kaggle, includes key fields such as trip ID, driver ID, destination location, fare amount, payment method, and trip duration. The data processing involved cleaning and transforming the data for analysis, focusing on key aspects like trip duration popularity, driver earnings, and fare analysis. Visualizations were created using Matplotlib and Seaborn, including bar charts, pie charts, and line graphs to illustrate findings. Technologies used include SQL for data extraction, Python for analysis and visualization, and Jupyter Notebook for an interactive environment.
